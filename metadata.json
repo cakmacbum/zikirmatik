@@ -1,0 +1,5 @@
+{
+  "name": "Zikir Sayacı",
+  "description": "A simple, peaceful, and clean digital tasbih (Dhikr Counter) application.",
+  "requestFramePermissions": ["vibrate"]
+}
